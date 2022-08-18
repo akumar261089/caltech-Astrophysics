@@ -1,4 +1,4 @@
-# [Caltecg Astrophysics Courses](https://catalog.caltech.edu/current/courses/department/Ay/2020-21)
+# [Caltech Astrophysics Courses](https://catalog.caltech.edu/current/courses/department/Ay/2020-21)
 
 ## [Ay 1. The Evolving Universe](/The%20Evolving%20Universe/)
 
